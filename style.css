@@ -20,3 +20,8 @@ nav a {
   background-color: grey;
 }
 
+figcaption {
+  font-size: small;
+  text-align: center;
+}
+
